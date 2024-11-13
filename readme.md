@@ -46,6 +46,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Your Name - freddie.ogutu@gmail.com
+freddie.ogutu@gmail.com
 
-Project Link: https://github.com/fiveace-Merill/data-anonymization
+https://github.com/fiveace-Merill/data-anonymization
